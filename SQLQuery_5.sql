@@ -1,3 +1,13 @@
+----- How many rows are in the FactSale table? Easy
+
+
+
+
+
+
+
+
+
 SELECT  [Stock Item], [Unit Price] AS ProductName
 
 FROM dimStockItem
